@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-javascript-calculator/static/css/main.555ffbca.chunk.css",
+    "main.js": "/fcc-javascript-calculator/static/js/main.ab907b0d.chunk.js",
+    "main.js.map": "/fcc-javascript-calculator/static/js/main.ab907b0d.chunk.js.map",
+    "runtime-main.js": "/fcc-javascript-calculator/static/js/runtime-main.f898c6c4.js",
+    "runtime-main.js.map": "/fcc-javascript-calculator/static/js/runtime-main.f898c6c4.js.map",
+    "static/js/2.4b03bd7a.chunk.js": "/fcc-javascript-calculator/static/js/2.4b03bd7a.chunk.js",
+    "static/js/2.4b03bd7a.chunk.js.map": "/fcc-javascript-calculator/static/js/2.4b03bd7a.chunk.js.map",
+    "static/js/3.f694b54f.chunk.js": "/fcc-javascript-calculator/static/js/3.f694b54f.chunk.js",
+    "static/js/3.f694b54f.chunk.js.map": "/fcc-javascript-calculator/static/js/3.f694b54f.chunk.js.map",
+    "index.html": "/fcc-javascript-calculator/index.html",
+    "static/css/main.555ffbca.chunk.css.map": "/fcc-javascript-calculator/static/css/main.555ffbca.chunk.css.map",
+    "static/js/2.4b03bd7a.chunk.js.LICENSE.txt": "/fcc-javascript-calculator/static/js/2.4b03bd7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f898c6c4.js",
+    "static/js/2.4b03bd7a.chunk.js",
+    "static/css/main.555ffbca.chunk.css",
+    "static/js/main.ab907b0d.chunk.js"
+  ]
+}
